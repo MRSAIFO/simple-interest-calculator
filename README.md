@@ -1,3 +1,4 @@
+#line for merge test
 # Simple Interest Calculator
 
 This project calculates simple interest using Bash.
